@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--Replace suite name with sheet name-->
+<suite name="Testing Login">
+<!--    Replace test name with test scenario-->
+    <test name="Login">
+<!--        Fill with corresponding test class-->
+        <classes>
+            <class name="Tests.LoginFlow.TC001"/>
+            <class name="Tests.LoginFlow.TC002"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
