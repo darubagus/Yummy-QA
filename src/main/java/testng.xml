@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<!--Replace suite name with sheet name-->
+<!--Replace suite name or add new suite with sheet name-->
 <suite name="Testing Login">
 <!--    Replace test name with test scenario-->
     <test name="Login">
